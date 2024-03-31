@@ -1,49 +1,18 @@
 # formation HTML, CSS, JS
 
-Ce site est réalisersuite à une formation en HTML, CSS, Javascript
+Ce site est réaliser suite à une formation en HTML, CSS, Javascript
 
 ## Présentation :
 
-- La page 1 est une page HTML commentée :
+- La page 1 est une page HTML commentée
 
-<p align="center">
-<img 
-class="IMGlink"
-src="images/page1.jpg"
-width= 100%
-        />
-</p>
+- La page 2 est une page HTML/CSS colorée
 
-- La page 2 est une page HTML/CSS colorée :
+- La page 3 est une page Javascript en console
 
-<p align="center">
-<img 
-class="IMGlink"
-src="images/page2.jpg"
-width= 100%
-        />
-</p>
+- La page 4 est une page dynamique
 
-- La page 3 est une page Javascript en console :
-
-<p align="center">
-<img 
-class="IMGlink"
-src="images/page3.jpg"
-width= 100%
-        />
-</p>
-
-- La page 4 est une page dynamique :
-
-<p align="center">
-<img 
-class="IMGlink"
-src="images/page4.jpg"
-width= 100%
-        />
-</p>
-## Articles sur les sujets importants :
+### Articles sur les sujets importants :
 
 ### 🔴 L'utilité du HTML, CSS et Javascript ?
 
